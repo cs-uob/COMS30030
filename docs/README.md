@@ -1,4 +1,4 @@
-# COMS30030: Image Processing and Computer Vision  (TB1) 25-26
+# COMS30030: Image Processing and Computer Vision  (TB1) 26-27
 
 ## Introduction
 
@@ -6,7 +6,7 @@ This is the teaching unit for the 3rd year CS option Image Processing and Comput
 
 Broadly speaking, Image Processing (IP) refers to techniques that transform images into other images, whilst Computer Vision (CV) concerns extracting information about the scene captured in an image. Examples of IP include filtering, spatial transformation, enhancement, compression, denoising and restoration, and of CV, include detection and recognition of objects, activities, people, places, etc, extraction of 3-D structure and motion, visual navigation and general scene understanding. However, there is considerable overlap between the two areas and thus a strict definition neither exists nor is especially useful, e.g. some techniques can be viewed as either IP or CV and CV often uses IP techniques as a starting point.
 
-Both the minor and major options provide an introduction to both topics, with the major option providing additional practical experience of converting theory into practice. The focus is on covering the fundamental principles and ideas and their use in example techniques. The latter includes edge detection, filtering, segmentation, object detection, stereo and motion estimation. The content is divided into two parts, the first covering techniques applied to still images (Majid) and the second covering techniques applied to multiple images and video (Andrew).
+Both the minor and major options provide an introduction to both topics, with the major option providing additional practical experience of converting theory into practice. The focus is on covering the fundamental principles and ideas and their use in example techniques. The latter includes edge detection, filtering, segmentation, object detection, stereo and motion estimation. The content is divided into two parts, the first covering techniques applied to still images (Majid Mirmehdi) and the second covering techniques applied to multiple images and video (Andrew Calway).
 
 Finally, a word about deep learning. It is probably fair to say that both IP and CV have been changed dramatically by the advent of deep learning techniques, which has revolutionised and facilitated great strides in both topics. For example, the vast majority of papers at the major conferences describing state of the art techniques will be based on deep learning. However, it is also true to say that to contribute to or make use of this work requires a good understanding of the fundamentals that are covered in this unit. With this, you will be well prepared to take 4th year units in deep learning that cover techniques and applications in IP and CV, i.e. COMSM0045 Applied Deep Learning and COMSM0159 Advanced Visual AI.
 
@@ -25,31 +25,36 @@ Lectures slides and related material can be found under Weekly Unit Materials be
 
 The unit consists of two lectures per week in weeks 1-5 and 7-8 (Week 6 is reading week):
 
-    Monday 2-3, PHYS BLDG G12 MOTT
-    Thursday 11-12, FRY BLDG LG.02
+    Monday 10-11, Queens Building 1.15 SLT
+    Tuesday 12-13, Queens Building 1.15 SLT
 
-The exception is week 8, in which there will only be one lecture on the Monday.
+The exception is week 5, in which there will only be one lecture on the Monday.
 
 The lecture schedule is as follows:
 
     Weeks 1-3: Majid (6)
     Week 4, Monday: Majid (1)
-    Week 4, Thursday: Andrew (1)
-    Weeks 5 and 7: Andrew (4)
-    Week 8, Monday: Andrew (1)
-    Week 8, Thursday: No lecture
-
+    Week 4, Tuesday: Andrew (1)
+    Week 5, Monday: Andrew (1)
+    Week 5, Tuesday: No lecture
+    Week 7: Andrew (2)
+    Week 8: Andrew (2)
 
 
 ## Teams:
+To appear ....
+<!--
 * The unit is on [Teams](https://teams.microsoft.com/l/team/19%3An35qiHInXDHOy9VFZwldDwchJNSb7BcvzpLTNPWIX6A1%40thread.tacv2/conversations?groupId=5ebc2a58-b6aa-4600-8422-b28912b2c07b&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b).  You should have access already through the "Teams" panel.  If not, please get in touch with the COMS Student Enquiries Mailbox at coms-student-enquiries@bristol.ac.uk. Please make sure you set NOTIFICATIONS to ON for this channel.
 
 * You should use the Teams channel for raising queries on any aspects of the COMS30030 unit - such queries will not normally be answered via email or via personal Teams messages. Please do not get upset if your issue is not answered by email or Teams when sent on a one-to-one basis. Post your query on the unit's Teams channel for the benefit of others who may have the same query.
 
+-->
 ---
 
 ## MAJOR option assignment:
 
+To appear....
+<!--
 The major option COMS30087 assignment will consist of two parts, one based on Majid's material in weeks 1-4 and the other on Andrew's materials in weeks 4-8. In preparation for the assignment, laboratory sessions are provided with worksheets and TA help. The work sheets will prepare you for the assignment.
 
 The laboratory sessions for the major option COMS30087 are timetabled to take place in weeks 1-5 and 7-8 on Thursdays at 15:00-17:00 in Queens Building 1.80. The major option assignment will then be done during weeks 9-11.
@@ -66,17 +71,20 @@ The lab sessions are designed to prepare you for undertaking the assignment in w
 - Week 5 - Stereo I - [Stereo Lab I](https://github.com/cs-uob/COMS30030/tree/main/Lab5-3D-from-stereo-main) [(solutions)](https://github.com/cs-uob/COMS30030/tree/main/LabSolutions)
 - Week 7 - Stereo II - [Stereo Lab II](https://github.com/cs-uob/COMS30030/tree/main/Lab6-3D-from-stereo-II)
 
+-->
 ---
 
 ## Exam information:
-* Minor option COMS30081 will be assessed by a single 1 hour exam consisting of 10 multiple choice questions.
-* Major option COMS30087 will be assessed by the above described assignment and a 50 minute mid-term exam in Week 8 consisting of 10 multiple choice questions.
+* Minor option COMS30081 will be assessed by a single 1 hour MCQ exam.
+* Major option COMS30087 will be assessed by a practical assignment in weeks 9-11 and a 50 minute mid-term MCQ exam in Week 6.
+
+<!--
 * For preparations for both of the above exams, below are previous exam papers from 2023 and 2024. The formats are different, but the questions are indicative of the type of questions to expect in both the minor and mid-term exams. Note that both exams will be based on all material covered in all the lectures.
 * * [2023 exam questions](https://github.com/cs-uob/COMS30030/tree/main/PastExams/IPCVexamJan23.pdf)
 * * [2023 exam solutions](https://github.com/cs-uob/COMS30030/tree/main/PastExams/IPCVexamJan23ans.pdf)
 * * [2024 exam questions](https://github.com/cs-uob/COMS30030/tree/main/PastExams/IPCVexamJan24.pdf)
 * * [2024 exam solutions](https://github.com/cs-uob/COMS30030/tree/main/PastExams/IPCVexamJan24ans.pdf)
-
+-->
 ---
 
 ## Lecture recordings:
@@ -84,6 +92,9 @@ All lecture recordings eventually appear on Blackboard a few hours after the eve
 
 ## Weekly Unit Materials
 
+To appear .....
+
+<!--
 #### Week 1: 22/09/2025
 
   | ------- | ------- |     
@@ -134,3 +145,5 @@ All lecture recordings eventually appear on Blackboard a few hours after the eve
 
   | ------- | ------- | ------ |
   | AC06. Motion Lecture 2 | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_motion_lec2.pdf) | [6up pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_motion_lec2_6up.pdf)|-- |
+
+-->
