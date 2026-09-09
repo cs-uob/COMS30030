@@ -76,9 +76,9 @@ The lab sessions are designed to prepare you for undertaking the assignment in w
 -->
 ---
 
-## Exam information:
+## Assessment information:
 * Minor option COMS30081 will be assessed by a single 1 hour MCQ exam.
-* Major option COMS30087 will be assessed by a practical assignment in weeks 9-11 and a 50 minute mid-term MCQ exam in Week 6.
+* Major option COMS30087 will be assessed by a 50 minute MCQ exam in Week 6 and a practical assignment in weeks 9-11.
 
 <!--
 * For preparations for both of the above exams, below are previous exam papers from 2023 and 2024. The formats are different, but the questions are indicative of the type of questions to expect in both the minor and mid-term exams. Note that both exams will be based on all material covered in all the lectures.
