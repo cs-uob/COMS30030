@@ -43,17 +43,19 @@ The lecture schedule is as follows:
 
 ## Teams:
 To appear ....
+
 <!--
 * The unit is on [Teams](https://teams.microsoft.com/l/team/19%3An35qiHInXDHOy9VFZwldDwchJNSb7BcvzpLTNPWIX6A1%40thread.tacv2/conversations?groupId=5ebc2a58-b6aa-4600-8422-b28912b2c07b&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b).  You should have access already through the "Teams" panel.  If not, please get in touch with the COMS Student Enquiries Mailbox at coms-student-enquiries@bristol.ac.uk. Please make sure you set NOTIFICATIONS to ON for this channel.
--->
-<!--
+
 * You should use the Teams channel for raising queries on any aspects of the COMS30030 unit - such queries will not normally be answered via email or via personal Teams messages. Please do not get upset if your issue is not answered by email or Teams when sent on a one-to-one basis. Post your query on the unit's Teams channel for the benefit of others who may have the same query.
+
 -->
 
 
 ## MAJOR option assignment:
 
 To appear....
+
 <!--
 The major option COMS30087 assignment will consist of two parts, one based on Majid's material in weeks 1-4 and the other on Andrew's materials in weeks 4-8. In preparation for the assignment, laboratory sessions are provided with worksheets and TA help. The work sheets will prepare you for the assignment.
 
