@@ -42,34 +42,27 @@ The lecture schedule is as follows:
 
 
 ## Teams:
-To appear ....
 
-<!--
-* The unit is on [Teams](https://teams.microsoft.com/l/team/19%3An35qiHInXDHOy9VFZwldDwchJNSb7BcvzpLTNPWIX6A1%40thread.tacv2/conversations?groupId=5ebc2a58-b6aa-4600-8422-b28912b2c07b&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b).  You should have access already through the "Teams" panel.  If not, please get in touch with the COMS Student Enquiries Mailbox at coms-student-enquiries@bristol.ac.uk. Please make sure you set NOTIFICATIONS to ON for this channel.
+* The unit is on [Teams](https://teams.microsoft.com/l/channel/19%3AsJpLB-Z3iZFoUIQgg1SnRXkqcQ2moMxViF8zgh3TD4o1%40thread.tacv2/General?groupId=54a649fb-2c6f-41f7-9b60-b17925046519&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b).  You should have access already through the "Teams" panel.  If not, please get in touch with the COMS Student Enquiries Mailbox at coms-student-enquiries@bristol.ac.uk. Please make sure you set NOTIFICATIONS to ON for this channel.
 
 * You should use the Teams channel for raising queries on any aspects of the COMS30030 unit - such queries will not normally be answered via email or via personal Teams messages. Please do not get upset if your issue is not answered by email or Teams when sent on a one-to-one basis. Post your query on the unit's Teams channel for the benefit of others who may have the same query.
 
--->
-
 
 ## MAJOR option assignment:
+Details on the major option COMS30087 assignment will appear here later. Watch this space!
 
-To appear....
+In preparation for the assignment, and generally as a means of learning on the unit, laboratory sessions are provided with worksheets and TA help.
 
-<!--
-The major option COMS30087 assignment will consist of two parts, one based on Majid's material in weeks 1-4 and the other on Andrew's materials in weeks 4-8. In preparation for the assignment, laboratory sessions are provided with worksheets and TA help. The work sheets will prepare you for the assignment.
-
-The laboratory sessions for the major option COMS30087 are timetabled to take place in weeks 1-5 and 7-8 on Thursdays at 15:00-17:00 in Queens Building 1.80. The major option assignment will then be done during weeks 9-11.
+The laboratory sessions for the major option COMS30087 are timetabled to take place in weeks 1-5 and 7-8 on Thursdays at 09:00-11:00 in Queens Building 1.80. The major option assignment will then be done during weeks 9-11.
 
 There are six 2-hour laboratory sessions. Each consists of a task sheet which you are expected to complete during the session. help will be available in the form of 6 post-graduate Teaching Assistants (TAs), all of whom are completing a PhD in image processing or computer vision.
 
 The lab sessions are designed to prepare you for undertaking the assignment in weeks 9-11. You are therefore expected to attend every session, complete the tasks on the lab sheet and make full use of the help available. Solutions to lab sheets will be released following each session (when applicable). The TAs have been instructed to be available at all times during each session to offer help and advice. However, it is important that before asking for help you make a serious attempt to understand and complete a task. If you need help, then try to ask specific questions, whether that relates to the theory behind the task or how to implement something. If you find that you are not getting sufficient help from the TAs, then please contact the unit director.
 
-## Lab Schedule:
+Lab Schedule:
 - Week 1 - OpenCV Intro and Image Representation - [Introduction and Mandrill Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge) [(solutions)](https://github.com/cs-uob/COMS30030/tree/main/LabSolutions)
-- Week 2 - Convolution and Image Filtering -  [Numberplate Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab2-Number-Plate-Challenge) [(solutions)](https://github.com/cs-uob/COMS30030/tree/main/LabSolutions)
-- Week 3 - Edge and Hough Transform - [Coin Counter Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab3-Coin-Counter-Challenge)
-- Week 4 - Real-time Object Detection - [Face Detection Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab4-Face-Detection)
+
+<!--
 - Week 5 - Stereo I - [Stereo Lab I](https://github.com/cs-uob/COMS30030/tree/main/Lab5-3D-from-stereo-main) [(solutions)](https://github.com/cs-uob/COMS30030/tree/main/LabSolutions)
 - Week 7 - Stereo II - [Stereo Lab II](https://github.com/cs-uob/COMS30030/tree/main/Lab6-3D-from-stereo-II)
 
