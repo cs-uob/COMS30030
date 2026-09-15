@@ -48,8 +48,7 @@ The lecture schedule is as follows:
 * You should use the Teams channel for raising queries on any aspects of the COMS30030 unit - such queries will not normally be answered via email or via personal Teams messages. Please do not get upset if your issue is not answered by email or Teams when sent on a one-to-one basis. Post your query on the unit's Teams channel for the benefit of others who may have the same query.
 
 
-## MAJOR option assignment:
-Details on the major option COMS30087 assignment will appear here later. Watch this space!
+## MAJOR option labs and assignment:
 
 In preparation for the assignment, and generally as a means of learning on the unit, laboratory sessions are provided with worksheets and TA help.
 
@@ -59,8 +58,11 @@ There are six 2-hour laboratory sessions. Each consists of a task sheet which yo
 
 The lab sessions are designed to prepare you for undertaking the assignment in weeks 9-11. You are therefore expected to attend every session, complete the tasks on the lab sheet and make full use of the help available. Solutions to lab sheets will be released following each session (when applicable). The TAs have been instructed to be available at all times during each session to offer help and advice. However, it is important that before asking for help you make a serious attempt to understand and complete a task. If you need help, then try to ask specific questions, whether that relates to the theory behind the task or how to implement something. If you find that you are not getting sufficient help from the TAs, then please contact the unit director.
 
+Details on the major option COMS30087 assignment will appear here later. Watch this space!
+
 Lab Schedule:
-- Week 1 - OpenCV Intro and Image Representation - [Introduction and Mandrill Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge) [(solutions)](https://github.com/cs-uob/COMS30030/tree/main/LabSolutions)
+- Week 1 - OpenCV Intro and Image Representation - [Introduction and Mandrill Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge)
+<!--[(solutions)](https://github.com/cs-uob/COMS30030/tree/main/LabSolutions) -->
 
 <!--
 - Week 5 - Stereo I - [Stereo Lab I](https://github.com/cs-uob/COMS30030/tree/main/Lab5-3D-from-stereo-main) [(solutions)](https://github.com/cs-uob/COMS30030/tree/main/LabSolutions)
