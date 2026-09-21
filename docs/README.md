@@ -95,9 +95,9 @@ All lecture recordings eventually appear on Blackboard a few hours after the eve
   | MM01. Introduction, Image Acquisition | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM01-Intro-Acquisition.pdf) | -- |
 
 
-  <!--
+<!--
 
-  
+
 #### Week 2: 29/09/2025
 
 
