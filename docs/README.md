@@ -96,6 +96,7 @@ All lecture recordings eventually appear on Blackboard a few hours after the eve
 
 
   <!--
+  
   | MM02. Image Filtering | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM02-Filtering.pdf) |  [online play](https://setosa.io/ev/image-kernels/)|
   | Problem Sheet 01 (Self/Group study) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM01.pdf) | -- |
   | Problem Sheet 01 (Solutions) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM01-Solutions.pdf)  | -- |
