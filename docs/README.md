@@ -63,9 +63,13 @@ Details on the major option COMS30087 assignment will appear here later. Watch t
 Lab Schedule:
 - Week 1 - OpenCV Intro and Image Representation - [Introduction and Mandrill Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge)
 [(solutions)](https://github.com/cs-uob/COMS30030/tree/main/LabSolutions)
-
-
+- Week 2 - Convolution and Image Filtering -  [Numberplate Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab2-Number-Plate-Challenge)
 <!--
+[(solutions)](https://github.com/cs-uob/COMS30030/tree/main/LabSolutions)
+
+- Week 3 - Edge and Hough Transform - [Coin Counter Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab3-Coin-Counter-Challenge)
+- Week 4 - Real-time Object Detection - [Face Detection Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab4-Face-Detection)
+
 - Week 5 - Stereo I - [Stereo Lab I](https://github.com/cs-uob/COMS30030/tree/main/Lab5-3D-from-stereo-main) [(solutions)](https://github.com/cs-uob/COMS30030/tree/main/LabSolutions)
 - Week 7 - Stereo II - [Stereo Lab II](https://github.com/cs-uob/COMS30030/tree/main/Lab6-3D-from-stereo-II)
 
@@ -103,6 +107,8 @@ All lecture recordings eventually appear on Blackboard a few hours after the eve
 | ------- | ------- |   ------ |  
 | MM03. Fourier Analysis | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM03-Fourier.pdf) | [online play](https://bigwww.epfl.ch/demo/ip/demos/FFT-filtering/) |
 | Problem Sheet 02 (Self/Group study) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM02.pdf) | -- |
+
+
 <!--
   | Problem Sheet 02 (Solutions) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM02-Solutions.pdf)  | -- |
   | MM04. Edges & Shapes | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM04-EdgesShapes.pdf) | [online play](https://www.aber.ac.uk/~dcswww/Dept/Teaching/CourseNotes/current/CS34110/hough.html)  |
