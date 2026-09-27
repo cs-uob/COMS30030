@@ -64,6 +64,8 @@ Lab Schedule:
 - Week 1 - OpenCV Intro and Image Representation - [Introduction and Mandrill Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge)
 [(solutions)](https://github.com/cs-uob/COMS30030/tree/main/LabSolutions)
 - Week 2 - Convolution and Image Filtering -  [Numberplate Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab2-Number-Plate-Challenge)
+
+
 <!--
 [(solutions)](https://github.com/cs-uob/COMS30030/tree/main/LabSolutions)
 
