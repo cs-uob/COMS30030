@@ -109,11 +109,11 @@ All lecture recordings eventually appear on Blackboard a few hours after the eve
 | ------- | ------- |  ------ |  
 | MM03. Fourier Analysis | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM03-Fourier.pdf) | [online play](https://bigwww.epfl.ch/demo/ip/demos/FFT-filtering/) |
 | Problem Sheet 02 (Self/Group study) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM02.pdf) | -- |
-
+| MM04. Edges & Shapes | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM04-EdgesShapes.pdf) | [online play](https://www.aber.ac.uk/~dcswww/Dept/Teaching/CourseNotes/current/CS34110/hough.html)  |
 
 <!--
   | Problem Sheet 02 (Solutions) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM02-Solutions.pdf)  | -- |
-  | MM04. Edges & Shapes | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM04-EdgesShapes.pdf) | [online play](https://www.aber.ac.uk/~dcswww/Dept/Teaching/CourseNotes/current/CS34110/hough.html)  |
+
 
 #### Week 3: 06/10/2025
 
