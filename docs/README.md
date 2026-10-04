@@ -61,13 +61,11 @@ The lab sessions are designed to prepare you for undertaking the assignment in w
 Details on the major option COMS30087 assignment will appear here later. Watch this space!
 
 Lab Schedule:
-- Week 1 - OpenCV Intro and Image Representation - [Introduction and Mandrill Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge)
-[(solutions)](https://github.com/cs-uob/COMS30030/tree/main/LabSolutions)
-- Week 2 - Convolution and Image Filtering -  [Numberplate Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab2-Number-Plate-Challenge)
-
+- Week 1 - OpenCV Intro and Image Representation - [Introduction and Mandrill Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge) [(solutions)](https://github.com/cs-uob/COMS30030/tree/main/LabSolutions)
+- Week 2 - Convolution and Image Filtering -  [Numberplate Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab2-Number-Plate-Challenge) [(solutions)](https://github.com/cs-uob/COMS30030/tree/main/LabSolutions)
+- Week 3 - Edge and Hough Transform - [Coin Counter Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab3-Coin-Counter-Challenge)
 
 <!--
-[(solutions)](https://github.com/cs-uob/COMS30030/tree/main/LabSolutions)
 
 - Week 3 - Edge and Hough Transform - [Coin Counter Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab3-Coin-Counter-Challenge)
 - Week 4 - Real-time Object Detection - [Face Detection Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab4-Face-Detection)
