@@ -67,7 +67,6 @@ Lab Schedule:
 
 <!--
 
-- Week 3 - Edge and Hough Transform - [Coin Counter Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab3-Coin-Counter-Challenge)
 - Week 4 - Real-time Object Detection - [Face Detection Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab4-Face-Detection)
 
 - Week 5 - Stereo I - [Stereo Lab I](https://github.com/cs-uob/COMS30030/tree/main/Lab5-3D-from-stereo-main) [(solutions)](https://github.com/cs-uob/COMS30030/tree/main/LabSolutions)
@@ -116,11 +115,10 @@ All lecture recordings eventually appear on Blackboard a few hours after the eve
 | ------- | ------- | ------ |
 | Problem Sheet 03 (Self/Group study) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM03.pdf) |  -- |
 | MM05. Segmentation | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM05-Segmentation.pdf) | [online play](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/) |
-
-<!--
 | MM06. Object Detection  | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM06-ObjectDetection.pdf) | -- |
 
-#### Week 4: 13/10/2026
+<!--
+#### Week 4: 12/10/2026
 
   | ------- | ------- | ------ |
   | MM07. Viola-Jones Face Detection | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM07-ViolaJones.pdf) | [online play](https://demo.ipol.im/demo/104/) |
@@ -128,7 +126,7 @@ All lecture recordings eventually appear on Blackboard a few hours after the eve
   | Problem Sheet 04 (Solutions) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM04-Solutions.pdf) |  -- |
   | AC01. Stereo Lecture 1 | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec1.pdf) | [6up pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec1_6up.pdf)|
 
-#### Week 5: 20/10/2025
+#### Week 5: 19/10/2025
 
   | ------- | ------- | ------ |
   | AC02. Stereo Lecture 2 | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec2.pdf) | [6up pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec2_6up.pdf)|
@@ -136,7 +134,7 @@ All lecture recordings eventually appear on Blackboard a few hours after the eve
   | Stereo Problem Sheet | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/COMS30030_2526_stereo_problem_sheet.pdf) |
   | Stereo Problem Sheet Solutions | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/COMS30030_2526_stereo_problem_sheet_solns.pdf) |-- |
 
-#### Week 7: 03/11/2025
+#### Week 7: 02/11/2025
 
   | ------- | ------- | ------ |
   | AC04. Stereo Lecture 4 | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec4.pdf) | [6up pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec4_6up.pdf)|
