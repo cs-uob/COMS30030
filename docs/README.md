@@ -119,12 +119,14 @@ All lecture recordings eventually appear on Blackboard a few hours after the eve
 | Problem Sheet 03 (Solutions) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM03-Solutions.pdf)  | -- |
 
 
-<!--
 #### Week 4: 12/10/2026
+| ------- | ------- | ------ |
+| MM07. Viola-Jones Face Detection | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM07-ViolaJones.pdf) | [Original paper][https://github.com/cs-uob/COMS30030/tree/main/misc/Viola-JonesFaceDetectionArticle.pdf] |
+| Problem Sheet 04 (Self/Group study) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM04.pdf) | -- |
+
+<!--
 
   | ------- | ------- | ------ |
-  | MM07. Viola-Jones Face Detection | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM07-ViolaJones.pdf) | [online play](https://demo.ipol.im/demo/104/) |
-  | Problem Sheet 04 (Self/Group study) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM04.pdf) | -- |
   | Problem Sheet 04 (Solutions) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM04-Solutions.pdf) |  -- |
   | AC01. Stereo Lecture 1 | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec1.pdf) | [6up pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec1_6up.pdf)|
 
