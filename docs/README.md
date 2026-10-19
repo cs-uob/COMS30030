@@ -78,13 +78,12 @@ Lab Schedule:
 * Minor option COMS30081 will be assessed by a single 1 hour MCQ exam.
 * Major option COMS30087 will be assessed by a 50 minute MCQ exam in Week 6 and a practical assignment in weeks 9-11.
 
-<!--
 * For preparations for both of the above exams, below are previous exam papers from 2023 and 2024. The formats are different, but the questions are indicative of the type of questions to expect in both the minor and mid-term exams. Note that both exams will be based on all material covered in all the lectures.
 * * [2023 exam questions](https://github.com/cs-uob/COMS30030/tree/main/PastExams/IPCVexamJan23.pdf)
 * * [2023 exam solutions](https://github.com/cs-uob/COMS30030/tree/main/PastExams/IPCVexamJan23ans.pdf)
 * * [2024 exam questions](https://github.com/cs-uob/COMS30030/tree/main/PastExams/IPCVexamJan24.pdf)
 * * [2024 exam solutions](https://github.com/cs-uob/COMS30030/tree/main/PastExams/IPCVexamJan24ans.pdf)
--->
+
 ---
 
 ## Lecture recordings:
