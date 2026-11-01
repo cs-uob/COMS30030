@@ -119,21 +119,21 @@ All lecture recordings eventually appear on Blackboard a few hours after the eve
 | MM07. Viola-Jones Face Detection | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM07-ViolaJones.pdf) | [Original paper](https://github.com/cs-uob/COMS30030/tree/main/misc/Viola-JonesFaceDetectionArticle.pdf) |
 | Problem Sheet 04 (Self/Group study) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM04.pdf) | -- |
 | Problem Sheet 04 (Solutions) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM04-Solutions.pdf) |  -- |
-| AC01. Motion Lecture 1 | [pdf](https://uob.sharepoint.com/:b:/r/teams/ImageProcessingandComputerV_a2768461-68d6-11f1-8640-11ae7ac94da8/Class%20Materials/COMS30030_2627_motion_lec1.pdf?d=w0ef5131989ec40c1b6963c649df28d9b&csf=1&web=1&e=357RyK) | [6up pdf](https://uob.sharepoint.com/:b:/r/teams/ImageProcessingandComputerV_a2768461-68d6-11f1-8640-11ae7ac94da8/Class%20Materials/COMS30030_2627_motion_lec1_6up.pdf?d=wa87756795a1c4ec4be1e17448483b811&csf=1&web=1&e=7Rmh9i)|
+| AC01. Motion Lecture 1 | [pdf](https://uob.sharepoint.com/:b:/r/teams/ImageProcessingandComputerV_a2768461-68d6-11f1-8640-11ae7ac94da8/Class%20Materials/COMS30030_2627_motion_lec1.pdf) | [6up pdf](https://uob.sharepoint.com/:b:/r/teams/ImageProcessingandComputerV_a2768461-68d6-11f1-8640-11ae7ac94da8/Class%20Materials/COMS30030_2627_motion_lec1_6up.pdf)|
 
-#### Week 5: 19/10/2025
+#### Week 5: 19/10/2026
 
   | ------- | ------- | ------ |
-  | AC02. Motion Lecture 2 | [pdf](https://uob.sharepoint.com/:b:/r/teams/ImageProcessingandComputerV_a2768461-68d6-11f1-8640-11ae7ac94da8/Class%20Materials/COMS30030-2627_motion_lec2.pdf?d=w14b61be9bc9e451f9c683bc5df5145fc&csf=1&web=1&e=BLiRhT)) | [6up pdf](https://uob.sharepoint.com/:b:/r/teams/ImageProcessingandComputerV_a2768461-68d6-11f1-8640-11ae7ac94da8/Class%20Materials/COMS30030-2627_motion_lec2_6up.pdf?d=w73b1e3597b9646ce970d8252dc632c1a&csf=1&web=1&e=L563Hl)|
+  | AC02. Motion Lecture 2 | [pdf](https://uob.sharepoint.com/:b:/r/teams/ImageProcessingandComputerV_a2768461-68d6-11f1-8640-11ae7ac94da8/Class%20Materials/COMS30030-2627_motion_lec2.pdf) | [6up pdf](https://uob.sharepoint.com/:b:/r/teams/ImageProcessingandComputerV_a2768461-68d6-11f1-8640-11ae7ac94da8/Class%20Materials/COMS30030-2627_motion_lec2_6up.pdf)|
   
 
-<!--
-#### Week 7: 02/11/2025
+#### Week 7: 02/11/2026
 
   | ------- | ------- | ------ |
-  | AC04. Stereo Lecture 4 | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec4.pdf) | [6up pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec4_6up.pdf)|
-  | AC05. Motion Lecture 1 | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_motion_lec1.pdf) | [6up pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_motion_lec1_6up.pdf)| -- |
+  | AC03. Stereo Lecture 1 | [pdf](https://uob.sharepoint.com/:b:/r/teams/ImageProcessingandComputerV_a2768461-68d6-11f1-8640-11ae7ac94da8/Class%20Materials/COMS30030_2627_stereo_lec1_6up.pdf) | [6up pdf](https://uob.sharepoint.com/:b:/r/teams/ImageProcessingandComputerV_a2768461-68d6-11f1-8640-11ae7ac94da8/Class%20Materials/COMS30030_2627_stereo_lec1.pdf)|
+  | AC04. Stereo Lecture 2 | [pdf]() | [6up pdf]()| -- |
 
+<!--
 #### Week 8: 10/11/2025
 
   | ------- | ------- | ------ |
