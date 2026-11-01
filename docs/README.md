@@ -131,7 +131,7 @@ All lecture recordings eventually appear on Blackboard a few hours after the eve
 
   | ------- | ------- | ------ |
   | AC03. Stereo Lecture 1 | [pdf](https://uob.sharepoint.com/:b:/r/teams/ImageProcessingandComputerV_a2768461-68d6-11f1-8640-11ae7ac94da8/Class%20Materials/COMS30030_2627_stereo_lec1_6up.pdf) | [6up pdf](https://uob.sharepoint.com/:b:/r/teams/ImageProcessingandComputerV_a2768461-68d6-11f1-8640-11ae7ac94da8/Class%20Materials/COMS30030_2627_stereo_lec1.pdf)|
-  | AC04. Stereo Lecture 2 | [pdf]() | [6up pdf]()| -- |
+  | AC04. Stereo Lecture 2 | [pdf]| [6up pdf]| -- |
 
 <!--
 #### Week 8: 10/11/2025
