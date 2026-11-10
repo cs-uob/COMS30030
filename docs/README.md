@@ -136,6 +136,7 @@ All lecture recordings eventually appear on Blackboard a few hours after the eve
 #### Week 8: 10/11/2025
 
   | ------- | ------- | ------ |
-  | AC05. Stereo Lecture 3 | [pdf](https://uob.sharepoint.com/:b:/r/teams/ImageProcessingandComputerV_a2768461-68d6-11f1-8640-11ae7ac94da8/Class%20Materials/COMS30030_2627_stereo_lec3.pdf) | [6up pdf](https://uob.sharepoint.com/:b:/r/teams/ImageProcessingandComputerV_a2768461-68d6-11f1-8640-11ae7ac94da8/Class%20Materials/COMS30030_2627_stereo_lec2_6up.pdf)|-- |
+  | AC05. Stereo Lecture 3 | [pdf](https://uob.sharepoint.com/:b:/r/teams/ImageProcessingandComputerV_a2768461-68d6-11f1-8640-11ae7ac94da8/Class%20Materials/COMS30030_2627_stereo_lec3.pdf) | [6up pdf](https://uob.sharepoint.com/:b:/r/teams/ImageProcessingandComputerV_a2768461-68d6-11f1-8640-11ae7ac94da8/Class%20Materials/COMS30030_2627_stereo_lec3_6up.pdf)|
+  | AC06. Stereo Lecture 4 | [pdf](https://uob.sharepoint.com/:b:/r/teams/ImageProcessingandComputerV_a2768461-68d6-11f1-8640-11ae7ac94da8/Class%20Materials/COMS30030_2627_stereo_lec4.pdf) | [6up pdf](https://uob.sharepoint.com/:b:/r/teams/ImageProcessingandComputerV_a2768461-68d6-11f1-8640-11ae7ac94da8/Class%20Materials/COMS30030_2627_stereo_le4_6up.pdf)| -- |
 
 
