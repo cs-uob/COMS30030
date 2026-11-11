@@ -66,7 +66,7 @@ Lab Schedule:
 - Week 7 - Stereo I - [Stereo Lab I](https://github.com/cs-uob/COMS30030/tree/main/Lab5-3D-from-stereo-main)
 - Week 8 - Stereo II - [Stereo Lab II](https://github.com/cs-uob/COMS30030/tree/main/Lab6-3D-from-stereo-II)
 
-Details of the **major option COMS30087 assignment** can now be found [here](https://github.com/cs-uob/COMS30030/tree/main/CW-3d-from-stereo). The deadline for submission is **Thursday 4th December 2026 at 13:00**. Submissions should be made on Blackboard.
+Details of the **major option COMS30087 assignment** can now be found [here](https://github.com/cs-uob/COMS30030/tree/main/CW-3d-from-stereo). The deadline for submission is **Thursday 3rd December 2026 at 13:00**. Submissions should be made on Blackboard.
 
 ---
 
