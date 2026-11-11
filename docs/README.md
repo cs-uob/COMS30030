@@ -63,7 +63,7 @@ Lab Schedule:
 - Week 2 - Convolution and Image Filtering -  [Numberplate Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab2-Number-Plate-Challenge) [(solutions)](https://github.com/cs-uob/COMS30030/tree/main/LabSolutions)
 - Week 3 - Edge and Hough Transform - [Coin Counter Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab3-Coin-Counter-Challenge)
 - Week 4 - Real-time Object Detection - [Face Detection Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab4-Face-Detection)
-- Week 7 - Stereo I - [Stereo Lab I](https://github.com/cs-uob/COMS30030/tree/main/Lab5-3D-from-stereo-main)[solution](https://uob.sharepoint.com/teams/ImageProcessingandComputerV_a2768461-68d6-11f1-8640-11ae7ac94da8/Class%20Materials/Forms/AllItems.aspx?id=%2Fteams%2FImageProcessingandComputerV%5Fa2768461%2D68d6%2D11f1%2D8640%2D11ae7ac94da8%2FClass%20Materials%2Flab1%2Dsoln%2D2627&viewid=1c1c9ce3%2D4dd0%2D4bf1%2D939e%2Db7355fe8622d)
+- Week 7 - Stereo I - [Stereo Lab I](https://github.com/cs-uob/COMS30030/tree/main/Lab5-3D-from-stereo-main) [solution](https://uob.sharepoint.com/teams/ImageProcessingandComputerV_a2768461-68d6-11f1-8640-11ae7ac94da8/Class%20Materials/Forms/AllItems.aspx?id=%2Fteams%2FImageProcessingandComputerV%5Fa2768461%2D68d6%2D11f1%2D8640%2D11ae7ac94da8%2FClass%20Materials%2Flab1%2Dsoln%2D2627&viewid=1c1c9ce3%2D4dd0%2D4bf1%2D939e%2Db7355fe8622d)
 - Week 8 - Stereo II - [Stereo Lab II](https://github.com/cs-uob/COMS30030/tree/main/Lab6-3D-from-stereo-II)
 
 Details of the **major option COMS30087 assignment** can now be found [here](https://github.com/cs-uob/COMS30030/tree/main/CW-3d-from-stereo). The deadline for submission is **Thursday 3rd December 2026 at 13:00**. Submissions should be made on Blackboard.
